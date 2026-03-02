@@ -1,4 +1,4 @@
-name: Build Minecraft Legacy Console Edition
+name: Build And Release
 on:
   workflow_dispatch:
 
